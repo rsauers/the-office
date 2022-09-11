@@ -25,7 +25,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-import os
-import sys
-sys.path.insert(0, os.path.abspath('..'))
