@@ -8,6 +8,8 @@ Welcome to The Office's documentation!
 
 Explore The Office documentation by browsing the different modules.
 
+Note the versions in the sidebar.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
