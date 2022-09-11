@@ -10,6 +10,8 @@ Explore The Office documentation by browsing the different modules.
 
 Note the versions in the sidebar.
 
+Should see version v0.0.2 now.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
