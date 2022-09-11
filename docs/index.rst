@@ -6,7 +6,7 @@
 Welcome to The Office's documentation!
 ======================================
 
-Explore The Office documentation.
+Explore The Office documentation by browsing the different modules.
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +25,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-import os
-import sys
-sys.path.insert(0, os.path.abspath('..'))
